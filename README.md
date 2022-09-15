@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-This is a practice project from the python crash course (Project 1, chapters 12 to 14).
+This is a practice project from python crash course book by Eric Matthes (Project 1, chapters 12 to 14).
 
 Goals:
 Classic game of space invaders. UFOs move side to side and closer to the space ship. If a UFO touches your space ship or the
